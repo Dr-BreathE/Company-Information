@@ -24,6 +24,17 @@ We specialize in custom 3D-printed oral appliances, AI-powered diagnostic tools,
 
 [**Presentation Video**](https://www.youtube.com/watch?v=S3_YNazX4rw)
 
+------------
+
+### The Main Project
+- [**SomnAI**](https://github.com/Dr-BreathE/SomnAI-APP)
+
+- [**ultrasonic Head Tracking Sensor**](https://github.com/Dr-BreathE/ultrasonic-Head-Tracking-Sensor)
+
+- [**Ultrasonic Rhinomanometry**](https://github.com/Dr-BreathE/Ultrasonic-Rhinomanometry)
+
+------------
+
 ### Contact us
 
 email: <lion5835@gmail.com>
