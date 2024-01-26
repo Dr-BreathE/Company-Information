@@ -1,3 +1,7 @@
+![picture](https://github.com/Dr-BreathE/Company-Information/blob/main/Dr.breathe%20logo.jpg)
+
+------------
+
 # Dr. BreathE Introduction
 
 Established in 2023, Dr. BreathE innovates in sleep apnea total solution through a fusion of medical expertise and advanced technology.
