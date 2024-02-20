@@ -14,7 +14,7 @@ We specialize in custom 3D-printed oral appliances, AI-powered diagnostic tools,
 
 - Founder: [**Dr. Liu Wen Te**](https://github.com/Dr-BreathE/Company-Information/tree/main/TEAM/Dr.%20Liu%20Wen-Te), a respiratory and sleep medicine expert, delegate to provide personalized care for sleep-related disorders.
   
-- Founder: Dr. Ma Yong Chang (Eric), Dental surgeon Taiwan, Harvard MBA, Chief of “Clinical Prefect Smile Dental Chain Clinics”.
+- Founder: [**Dr. Ma Yong Chang (Eric)**](https://github.com/Dr-BreathE/Company-Information/tree/main/TEAM/Dr.%20Ma%20Yung-Chang), Dental surgeon Taiwan, Harvard MBA, Chief of “Clinical Prefect Smile Dental Chain Clinics”.
 
 ------------
   
